@@ -1,5 +1,6 @@
 # Documentação
 
-- [diagrams](./diagrams)
-- [general](./general)
-- [requirements](./requiriments)
+- [Diagramas](./diagrams)
+- [Documento Geral](./general)
+- [Requisitos](./requiriments)
+- [Apresentação visual](./keynotes)
