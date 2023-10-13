@@ -2,4 +2,4 @@
 
 ## System Architecture
 
-![](./platform-black-general.svg)
+![](./platform-back-general.svg)
